@@ -1,18 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Varun Singh a FullStack Developer.
 Trying to unsolve mysteries of the universe and also my own life🙃</div>  
   
-
 - 🔭 I’m currently working on [LetsCamp](https://github.com/varun7singh/LetsCamp)  
   
-
 - 🌱 I’m currently learning Advanced Node.js concepts and Caching  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
@@ -41,7 +33,7 @@ Trying to unsolve mysteries of the universe and also my own life🙃</div>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -63,7 +55,7 @@ Trying to unsolve mysteries of the universe and also my own life🙃</div>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 </td></tr></table>  
 
@@ -88,9 +80,9 @@ Trying to unsolve mysteries of the universe and also my own life🙃</div>
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=varun7singh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=varun7singh&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun7singh&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun7singh&hide_border=true&layout=compact" align="right" />  
 
 
 <div align="center">
