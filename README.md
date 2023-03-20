@@ -1,4 +1,4 @@
-### <div align="center">I like Apples.
+### <div align="center">I ike Apples.
 Trying to unsolve mysteries of the universe and also my own life🙃</div>  
   
 - 🔭 I’m currently working on [LetsCamp](https://github.com/varun7singh/LetsCamp)  
