@@ -1,11 +1,6 @@
 ### <div align="center">I like apples.
-Trying to unsolve mysteries of the universe and also my own life🙃</div>  
-  
-- 🔭 I’m currently working on [PalSpace](https://github.com/varun7singh/PalSpace)  
-  
-- 🌱 I’m currently learning Advanced Node.js concepts and Caching  
-  
-- ❓ Ask me about anything related to MERN stack and related technologies  
+
+<div class="tenor-gif-embed" data-postid="7287600" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/hououin-kyouma-lab-mem-okabe-gif-7287600">Hououin Kyouma GIF</a>from <a href="https://tenor.com/search/hououin-gifs">Hououin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 
 <br/>  
