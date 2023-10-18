@@ -1,6 +1,6 @@
 ### <div align="center">I like apples.
 
-<div class="tenor-gif-embed" data-postid="7287600" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/hououin-kyouma-lab-mem-okabe-gif-7287600">Hououin Kyouma GIF</a>from <a href="https://tenor.com/search/hououin-gifs">Hououin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img style="margin: 10px" src="https://tenor.com/bFc70.gif" alt="Anime" />
   
 
 <br/>  
