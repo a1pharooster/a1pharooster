@@ -9,9 +9,6 @@ I'm currently working on AlgoClash<br><br>I love learning about new technology a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=varun7singh&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varun7singh&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=varun7singh&icon=2&color=0)](https://visitcount.itsvg.in)
 
